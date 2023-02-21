@@ -1,4 +1,4 @@
-//ouvrir un fichier csv
+//ouvrir fichier csv
 
 const fs = require('fs');
 const csvParser = require('csv-parser');
